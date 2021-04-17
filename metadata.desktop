@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Workspace Auto Back and Forth
+Comment=Switch workspaces back and forth using the same button
+Comment[pl_PL]=Przełączanie wirtualnych pulpitów w przód i w tył przy użyciu tego samego klawisza
+Encoding=UTF-8
+Icon=auto-scale-x
+Type=Service
+
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Name=workspace-auto-back-and-forth
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Author=Ignacy Kajdan
+X-KDE-PluginInfo-Email=ignacy.kajdan@gmail.com
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Category=Windows and Tasks
+X-KDE-PluginInfo-EnabledByDefault=true
