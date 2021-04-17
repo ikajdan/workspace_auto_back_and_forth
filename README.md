@@ -1,6 +1,6 @@
 # Workspace Auto Back and Forth
 
-Simple KWin addon (inspired by the [i3wm feature](https://i3wm.org/docs/userguide.html#workspace_auto_back_and_forth) with the same name), that enables user to switch workspaces back and forth using the same button.
+Simple KWin addon (inspired by [i3wm option](https://i3wm.org/docs/userguide.html#workspace_auto_back_and_forth) with the same name) that enables user to switch workspaces back and forth using the same button.
 
 ## Installation
 
@@ -16,7 +16,7 @@ This script has no configuration page. Just install it and assign desired shortc
 
 Still doesn't understand how does it work?
 
-Let's assume, that there are nine virtual desktops and you have assigned `Meta+1..9` to switch between them. Currently, _Desktop 1_ is focused. Upon pressing `Meta+4`, it will bring you to the _Desktop 4_. Now when you will press `Meta+4` again, it will switch back to _Desktop 1_. That's all.
+Let's assume that there are nine virtual desktops and you have assigned `Meta+1..9` to switch between them. Currently, **Desktop 1** is focused. Upon pressing `Meta+4`, it will bring you to the **Desktop 4**. Now when you will press `Meta+4` again, it will switch back to **Desktop 1**. That's all.
 
 ## License
 
